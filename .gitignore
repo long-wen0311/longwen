@@ -1,0 +1,14 @@
+# 编译产物
+build/
+*.o
+*.a
+*.so
+*.bin
+output/
+
+# 编辑器配置
+.vscode/
+.idea/
+
+# 其他
+.DS_Store
